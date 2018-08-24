@@ -21,14 +21,15 @@
     "wordfilter": "^0.2.6",
     "lodash": "4.x.x",
     "moment": "^2.22.1",
-    "node-fetch": "^2.1.2"
+    "node-fetch": "^2.1.2",
+    "glitchup": "^1.2.0"
   },
   "devDependencies": {},
   "author": "ktownsend@eab.com",
   "license": "MIT",
   "babel": {
-		"presets": [
-			"latest"
-		]
-	}
+    "presets": [
+      "latest"
+    ]
+  }
 }
